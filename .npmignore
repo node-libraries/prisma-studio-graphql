@@ -1,0 +1,11 @@
+/node_modules
+/src
+.gitignore
+tsconfig.json
+/test
+.eslintrc.json
+.github
+pnpm-lock.yaml
+/prisma
+.env
+/document
