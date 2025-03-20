@@ -2,7 +2,7 @@
 
 Provides a GraphQL execution environment based on the Prisma schema.
 
-![](./document/image01.avif)
+![](https://raw.githubusercontent.com/node-libraries/prisma-studio-graphql/master/document/image01.avif)
 
 ## execution
 
